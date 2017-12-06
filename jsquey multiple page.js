@@ -13,8 +13,8 @@ jQuery('.button_3').css('color','#F4655F');
 jQuery('.button_4').css('background','#fff');
 jQuery('.button_4').css('color','#F4655F');
 return false;
-  jQuery('body,html').animate({scrollTop : 'slow'});
-});
+});jQuery('body,html').animate({scrollTop : 'slow'});
+
 jQuery('.button_2').click(function(){
 jQuery('.content_1').fadeOut('fast');
   jQuery('.content_2').fadeIn('slow');
@@ -30,8 +30,8 @@ jQuery('.button_3').css('color','#F4655F');
 jQuery('.button_4').css('background','#fff');
 jQuery('.button_4').css('color','#F4655F');
 return false;
-  jQuery('body,html').animate({scrollTop : 'slow'});
-});
+});jQuery('body,html').animate({scrollTop : 'slow'});
+
 jQuery('.button_3').click(function(){
 jQuery('.content_1').fadeOut('fast');
   jQuery('.content_2').fadeOut('fast');
@@ -47,8 +47,8 @@ jQuery('.button_2').css('color','#F4655F');
 jQuery('.button_4').css('background','#fff');
 jQuery('.button_4').css('color','#F4655F');
 return false;
-  jQuery('body,html').animate({scrollTop : 'slow'});
-});
+});jQuery('body,html').animate({scrollTop : 'slow'});
+
 jQuery('.button_4').click(function(){
 jQuery('.content_1').fadeOut('fast');
   jQuery('.content_2').fadeOut('fast');
@@ -64,6 +64,4 @@ jQuery('.button_2').css('color','#F4655F');
 jQuery('.button_3').css('background','#fff');
 jQuery('.button_3').css('color','#F4655F');
 return false;
-  jQuery('body,html').animate({scrollTop : 'slow'});
-});
-});
+});jQuery('body,html').animate({scrollTop : 'slow'});

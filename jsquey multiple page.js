@@ -12,7 +12,6 @@ jQuery('.button_3').css('background','#fff');
 jQuery('.button_3').css('color','#F4655F');
 jQuery('.button_4').css('background','#fff');
 jQuery('.button_4').css('color','#F4655F');
-return false;
 });jQuery('body,html').animate({scrollTop : 'slow'});
 
 jQuery('.button_2').click(function(){
@@ -29,7 +28,6 @@ jQuery('.button_3').css('background','#fff');
 jQuery('.button_3').css('color','#F4655F');
 jQuery('.button_4').css('background','#fff');
 jQuery('.button_4').css('color','#F4655F');
-return false;
 });jQuery('body,html').animate({scrollTop : 'slow'});
 
 jQuery('.button_3').click(function(){
@@ -46,7 +44,6 @@ jQuery('.button_2').css('background','#fff');
 jQuery('.button_2').css('color','#F4655F');
 jQuery('.button_4').css('background','#fff');
 jQuery('.button_4').css('color','#F4655F');
-return false;
 });jQuery('body,html').animate({scrollTop : 'slow'});
 
 jQuery('.button_4').click(function(){
@@ -63,5 +60,4 @@ jQuery('.button_2').css('background','#fff');
 jQuery('.button_2').css('color','#F4655F');
 jQuery('.button_3').css('background','#fff');
 jQuery('.button_3').css('color','#F4655F');
-return false;
 });jQuery('body,html').animate({scrollTop : 'slow'});
